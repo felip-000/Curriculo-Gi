@@ -1,0 +1,22 @@
+.estilos{
+    background-color: black;
+    color: white;
+    background-image: url(red-rose-1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+}
+
+.links:hover{
+    transition: 0.3s;
+    color: palevioletred;
+}
+
+.texto{
+    display: block;
+    padding-right: 50%;
+}
